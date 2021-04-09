@@ -39,3 +39,9 @@ body {
 		clip-path: polygon(0 70%, 15% 57%, 44% 69%, 63% 61%, 81% 69%, 100% 64%, 100% 99%, 1% 100%);
 	}
 }
+@media screen and (max-width: 706px) {
+	.container h2 {
+		font-size: 30px;
+	}
+}
+
